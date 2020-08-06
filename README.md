@@ -22,7 +22,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somikdatta&layout=compact&hide=html" alt="somikdatta" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=somikdatta&show_icons=true" alt="somikdatta" />
+<img src="https://github-readme-stats.vercel.app/api?username=somikdatta&show_icons=true" alt="somikdatta" />
 
 <p align="center">
  <a href="https://twitter.com/somikdatta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="somikdatta" height="20" width="20" /></a>
