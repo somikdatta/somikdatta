@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somik</h1>
 <h3 align="center">
-  A fullstack developer from India passionate about **JavaScript** stacks
+  A fullstack developer from India passionate about JavaScript stacks
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somikdatta" alt="somikdatta" /> </p>
