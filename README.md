@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+  A fullstack developer from India passionate about **JavaScript** stacks
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somikdatta" alt="somikdatta" /> </p>
 
@@ -20,5 +22,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=somikdatta&show_icons=true" alt="somikdatta" />
 
 <p align="center">
+ <a href="https://twitter.com/somikdatta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="somikdatta" height="20" width="20" /></a>	<a href="https://twitter.com/somikdatta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="somikdatta" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/somikdatta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="somikdatta" height="30" width="30" /></a>
 </p>
+
+
