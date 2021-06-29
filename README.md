@@ -104,7 +104,7 @@ A fullstack developer from India passionate about JavaScript stacks 🚀</div>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=somikdatta&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=somikdatta&show_icons=true&theme=dark&locale=en" align="center" /></div>  
 
 <br/>  
 
