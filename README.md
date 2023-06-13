@@ -7,13 +7,13 @@
 A fullstack developer from India passionate about JavaScript stacks 🚀</div>  
   
 
-- 🔭 I’m currently working in ed-tech  
+- 🔭 I’m currently working in Shell India  
   
 
-- 🌱 I’m currently learning Canvas API, WebRTC  
+- 🌱 I’m currently learning SAP Business Technology Platform (BTP)  
   
 
-- ❓Ask me about NodeJS, Angular, JavaScript, React  
+- ❓ Ask me about NodeJS, Angular, JavaScript, React  
   
 
 - ⚡ Fun fact: I believe snooze is the best button to ever exist  
